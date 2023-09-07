@@ -1,0 +1,22 @@
+.left{
+    /* display: flex;
+	align-items: center; */
+	position: fixed;
+	top:60px;
+	left:0px;
+	bottom:0px;
+	/* margin: 0.2em; */
+	justify-content: space-between;
+    width:200px;
+	height: 100vh;
+	
+	/* background-color: rgba(76, 86, 201); */
+	/* background-color: rgba(60, 63, 170, 0.25); */
+	background: linear-gradient(#9198e5,#3a4294 100%);
+	color: rgb(244, 241, 241);
+}
+.li{
+	background-color:none;
+	text-decoration: none;
+	padding:0 2rem;
+}

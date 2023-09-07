@@ -1,0 +1,25 @@
+.right1{
+position:absolute;
+top:80px;
+right:20px;
+width:84%;
+height:260px;
+background-color: rgb(159, 147, 255, .3);
+color:black;
+text-align: center;
+border-radius: 5px;
+
+}
+.right2{
+    
+    position:absolute;
+    top:380px;
+    right:20px;
+    width:84%;
+    height:260px;
+    background-color: rgb(159, 147, 255, .3);;
+    color:black;
+    text-align: center;
+    border-radius: 5px;
+    
+    }
